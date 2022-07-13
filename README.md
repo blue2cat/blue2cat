@@ -1,4 +1,5 @@
-### Hi there 👋
+### Gavin 
+Technical Researcher at Cornerstone Systems Northwest, Inc. Currently a Computer Science student at [Western Washington University](https://cs.wwu.edu/). Interested in all things related to Docker and Kubernetes.  
 
 <!--
 **blue2cat/blue2cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
