@@ -7,7 +7,7 @@ With experience in multiple industries, I have worked in technical roles where I
 Currently, I am working on a cybersecurity research project at Western Washington University that involves capturing, analyzing, and visualizing network traffic from IoT devices on home networks.
 
 In my free time, I enjoy building and analyzing systems. This interest has myriad applications. Some projects I have completed include:
-* Designing a Kubernetes replacement for a Docker-compose based server solution.
-* Reverse engineering IoT firmware.
-* Writing elegant, secure server applications in C.
-* Designing PowerShell scripts that provide metrics on software versions across a network of servers.
+* Designing a Kubernetes replacement for a Docker-compose server solution
+* Reverse engineering IoT firmware
+* Writing elegant, secure server applications in C
+* Designing PowerShell scripts that provide metrics on software versions across a network of servers
