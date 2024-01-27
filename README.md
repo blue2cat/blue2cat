@@ -9,5 +9,5 @@ Currently, I am working on a cybersecurity research project at Western Washingto
 In my free time, I enjoy building and analyzing systems. This interest has myriad applications. Some projects I have completed include:
 * Designing a Kubernetes replacement for a Docker-compose based server solution.
 * Reverse engineering IoT firmware.
-* Writing elegant, secure servers and clients in C.
+* Writing elegant, secure server applications in C.
 * Designing PowerShell scripts that provide metrics on software versions across a network of servers.
