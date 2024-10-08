@@ -1,4 +1,4 @@
-Hello, I'm Gavin👋
+## Hello, I'm Gavin👋
 
 I am passionate about cybersecurity, containerized technology, and web development. Currently, I am pursuing a Bachelor of Science in Computer Science at Western Washington University.
 
