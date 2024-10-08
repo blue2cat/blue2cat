@@ -1,6 +1,6 @@
 ## Hello, I'm Gavin👋
 
-I am passionate about cybersecurity, containerized technology, and web development. Currently, I am pursuing a Bachelor of Science in Computer Science at Western Washington University.
+I am passionate about cybersecurity, containerized technology, and web development. I am graduating with a Bachelor of Science in Computer Science from Western Washington University in December 2024.
 
 Projects I've worked on include:
 - [ARP Spoofing Utility in Python](https://github.com/blue2cat/spoof-py): Developed a comprehensive tool for ARP spoofing, allowing detailed control over network traffic interception.
